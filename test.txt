@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 master
+=======
+world
+>>>>>>> testbranch
